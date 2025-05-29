@@ -1,0 +1,5 @@
+html, body {
+  overflow-x: hidden; /* Prevent horizontal scroll only */
+  overflow-y: auto;
+  touch-action: auto;
+}
