@@ -1,4 +1,1 @@
 # coding-project-template
-
-
-
